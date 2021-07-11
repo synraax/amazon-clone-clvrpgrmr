@@ -1,6 +1,6 @@
 # Clone of the amazon website front page, login page, and checkout
 
-U can view the program in this link
+U can view the program in this [link](https://clone-dito.web.app)
 
 Source code is on the master branch.
 
