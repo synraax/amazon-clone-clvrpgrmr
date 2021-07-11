@@ -1,3 +1,9 @@
+# Clone of the amazon website front page, login page, and checkout
+
+U can view the program in this link
+
+Source code is on the master branch.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
